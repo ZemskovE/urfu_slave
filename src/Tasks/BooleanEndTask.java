@@ -1,4 +1,4 @@
-package practic;
+package Tasks;
 public class BooleanEndTask {
     public static void main(String[] args) {
         int temp = 24;

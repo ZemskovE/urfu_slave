@@ -1,4 +1,4 @@
-package practic;
+package TheoryCode;
 
 public class age2 {
     public static void main(String[] args) {

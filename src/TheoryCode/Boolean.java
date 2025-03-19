@@ -1,4 +1,4 @@
-package practic;
+package TheoryCode;
 
 public class Boolean {
     public static void main(String[] args) {
